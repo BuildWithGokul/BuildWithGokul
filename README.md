@@ -119,7 +119,7 @@ Detects visually similar images using feature extraction and cosine similarity.
 </td>
 <td width="50%" valign="top">
 
-**🏥 GradeSnap** — AI-Powered Temporary Marksheet Provider
+** GradeSnap** — AI-Powered Temporary Marksheet Provider
 
 Automates result extraction, CGPA calculation, and temporary marksheet generation.
 
