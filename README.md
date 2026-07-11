@@ -23,7 +23,7 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
-## 🧑‍💻 whoami
+## 🧑‍💻 Who Am I
 
 ```python
 class GokulP:
