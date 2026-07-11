@@ -9,16 +9,18 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gokul215">
-<img src="https://img.shields.io/badge/LINKEDIN-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
-</a>
-<a href="mailto:gokulperiyannan2005@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
-</a>
-<a href="https://github.com/BuildWithGokul">
-<img src="https://img.shields.io/badge/FOLLOW-00C896?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=C9D1D9" alt="LinkedIn"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=00C896&labelColor=0D1117&style=for-the-badge"/>
+<a href="mailto:gokulperiyannan2005@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Say_Hi-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=C9D1D9" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/BuildWithGokul">
+<img src="https://img.shields.io/badge/Follow-BuildWithGokul-C9D1D9?style=for-the-badge&logo=github&logoColor=181717&labelColor=C9D1D9" alt="Follow BuildWithGokul"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=C9D1D9&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -193,6 +195,7 @@ AI healthcare assistant concept integrating medical image classification and int
 # 📊 GitHub Intelligence
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="GitHub Stats"/>
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithGokul&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 <br/>
@@ -218,9 +221,13 @@ AI healthcare assistant concept integrating medical image classification and int
 # 🎓 Certifications & Continuous Learning
 
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/AWS-Exploring_AI-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-00C896?style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117"/>
+
 <img src="https://img.shields.io/badge/Anthropic-AI_Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117"/>
 
 </div>
@@ -232,15 +239,15 @@ AI healthcare assistant concept integrating medical image classification and int
 # 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/gokul215">
-<img src="https://img.shields.io/badge/LINKEDIN-GOKUL_P-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-Gokul_P-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
 </a>
 
 <a href="mailto:gokulperiyannan2005@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-CONTACT_ME-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
 </a>
 
 <a href="https://github.com/BuildWithGokul">
-<img src="https://img.shields.io/badge/GITHUB-BUILDWITHGOKUL-00C896?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/GitHub-BuildWithGokul-C9D1D9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub"/>
 </a>
 
 <br/><br/>
