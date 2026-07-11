@@ -8,13 +8,13 @@
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
-- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- 🔭 Here's my portfolio: `[add your portfolio link here]`
-- 🌱 Currently learning **Generative AI** and integrating it into my dev workflow
-- 💻 Building AI-powered applications, full-stack projects, and data analytics tools
-- ☁️ **AWS Certified Cloud Practitioner**
-- ⚡ Fun fact: `[drop a fun fact about yourself here]`
-- 📫 Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
+-  Pursuing **B.Tech in Artificial Intelligence & Data Science**
+-  Here's my portfolio: `[add your portfolio link here]`
+-  Currently learning **Generative AI** and integrating it into my dev workflow
+-  Building AI-powered applications, full-stack projects, and data analytics tools
+-  **AWS Certified Cloud Practitioner**
+-  Fun fact: `[drop a fun fact about yourself here]`
+-  Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
 
 **Social Presence**
 
@@ -34,7 +34,7 @@
 
 ---
 
-### 💻 I Code In
+###  Familiar With
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-### 🎨 Frontend & Backend
+###  Frontend & Backend
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-### 🤖 AI, ML & Data
+###  AI, ML & Data
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 <br/>
 
-### 🗄️ Databases & Cloud
+###  Databases & Cloud
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <br/>
 
-### 🛠️ IDE & Tools
+###  IDE & Tools
 
 <div align="center">
 
@@ -84,13 +84,13 @@
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧵 TexSouLs** — Intelligent Textile Automation System
+** TexSouLs** — Intelligent Textile Automation System
 
 AI-powered automation that analyzes textile patterns, identifies dominant thread colors, and generates cone placement mappings.
 
@@ -99,7 +99,7 @@ AI-powered automation that analyzes textile patterns, identifies dominant thread
 </td>
 <td width="50%" valign="top">
 
-**🎯 SkillSharper** — AI Interview Training Platform
+** SkillSharper** — AI Interview Training Platform
 
 Evaluates aptitude, technical knowledge, communication, and interview performance.
 
@@ -110,7 +110,7 @@ Evaluates aptitude, technical knowledge, communication, and interview performanc
 <tr>
 <td width="50%" valign="top">
 
-**🔍 Similar Image Finder** — AI-Based Image Retrieval
+** Similar Image Finder** — AI-Based Image Retrieval
 
 Detects visually similar images using feature extraction and cosine similarity.
 
@@ -119,11 +119,11 @@ Detects visually similar images using feature extraction and cosine similarity.
 </td>
 <td width="50%" valign="top">
 
-**🏥 MedCare AI** — AI-Powered Healthcare Concept
+**🏥 GradeSnap** — AI-Powered Temporary Marksheet Provider
 
-Medical image classification with intelligent healthcare recommendations.
+Automates result extraction, CGPA calculation, and temporary marksheet generation.
 
-`Python` `TensorFlow` `OpenCV` `Flask`
+`React.js` `Tailwind CSS` `Python Flask` `Selenium` `Chrome WebDriver`
 
 </td>
 </tr>
@@ -145,7 +145,6 @@ Medical image classification with intelligent healthcare recommendations.
 
 <img src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="Gokul's GitHub stats"/>
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?ext=contest&theme=dark)](https://leetcode.com/your-leetcode-username)
 
 [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
