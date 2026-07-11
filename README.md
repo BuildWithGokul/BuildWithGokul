@@ -13,6 +13,7 @@
 -  Currently learning **Generative AI** and integrating it into my dev workflow
 -  Building AI-powered applications, full-stack projects, and data analytics tools
 -  **AWS Certified Cloud Practitioner**
+-  Fun fact: `[drop a fun fact about yourself here]`
 -  Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
 
 **Social Presence**
@@ -33,7 +34,7 @@
 
 ---
 
-###  Familiar With <br/>
+###  Familiar With 
 
 <div align="center">
 
