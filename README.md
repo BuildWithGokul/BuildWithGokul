@@ -7,17 +7,14 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/gokul215">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:gokulperiyannan2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/BuildWithGokul">
-  <img src="https://img.shields.io/github/followers/BuildWithGokul?label=Followers&style=for-the-badge&logo=github&color=00C896&labelColor=0D1117"/>
+<img src="https://img.shields.io/github/followers/BuildWithGokul?label=Followers&style=for-the-badge&logo=github&color=00C896&labelColor=0D1117"/>
 </a>
-
 <img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE+VIEWS&color=00c896&style=for-the-badge"/>
 
 </div>
@@ -90,49 +87,29 @@ print(developer.say_hi())
 
 <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark"/>
 
-<br/><br/>
-
 ### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite&theme=dark"/>
 
-<br/><br/>
-
-### ⚙️ Backend & APIs
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=restapi&theme=dark"/>
-
-<br/><br/>
 
 ### 🤖 AI & Machine Learning
 
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark"/>
 
-<br/><br/>
-
 ### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase&theme=dark"/>
-
-<br/><br/>
 
 ### ☁️ Cloud & Deployment
 
 <img src="https://skillicons.dev/icons?i=aws,vercel,netlify&theme=dark"/>
 
-<br/><br/>
-
-### 🛠️ Tools & Analytics
+### 🛠️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-
-<br/><br/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau&theme=dark"/>
 
 </div>
 
@@ -145,9 +122,7 @@ print(developer.say_hi())
 </div>
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🧵 TexSouLs
@@ -161,7 +136,6 @@ AI-powered textile automation system designed to analyze textile patterns, ident
 **Tech:** `Python` `React` `OpenCV` `Flask`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🎯 SkillSharper
@@ -175,11 +149,8 @@ An intelligent interview preparation ecosystem designed to evaluate aptitude, te
 **Tech:** `React` `Node.js` `MongoDB` `FastAPI`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🔍 Similar Image Finder
@@ -193,7 +164,6 @@ Deep learning-based application capable of detecting visually similar images usi
 **Tech:** `Python` `TensorFlow` `DeepFace` `Flask`
 
 </td>
-
 <td width="50%" valign="top">
 
 ### 🏥 MedCare AI
@@ -207,9 +177,7 @@ AI healthcare assistant concept integrating medical image classification and int
 **Tech:** `Python` `TensorFlow` `OpenCV` `Flask`
 
 </td>
-
 </tr>
-
 </table>
 
 ---
@@ -219,10 +187,9 @@ AI healthcare assistant concept integrating medical image classification and int
 # 📊 GitHub Intelligence
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=FFFFFF"/>
-
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithGokul&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"/>
 
-<br/><br/>
+<br/>
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BuildWithGokul&layout=compact&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=FFFFFF"/>
 
@@ -255,13 +222,9 @@ AI healthcare assistant concept integrating medical image classification and int
 # 🎓 Certifications & Continuous Learning
 
 <img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AWS-Exploring_AI-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NPTEL-Industry_4.0_&_IIoT-1F4E79?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Anthropic-AI_Fluency-D97757?style=for-the-badge"/>
 
 </div>
@@ -273,15 +236,13 @@ AI healthcare assistant concept integrating medical image classification and int
 # 🌐 Let's Connect
 
 <a href="https://www.linkedin.com/in/gokul215">
-  <img src="https://img.shields.io/badge/LinkedIn-Gokul_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Gokul_P-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 <a href="mailto:gokulperiyannan2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/BuildWithGokul">
-  <img src="https://img.shields.io/badge/GitHub-BuildWithGokul-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-BuildWithGokul-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
