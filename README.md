@@ -2,19 +2,19 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B2A,100:00C896&height=200&section=header&text=Hi%20there%2C%20I'm%20Gokul%20P%20%F0%9F%91%8B&fontSize=42&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"
 
 </div>
 
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
-- Pursuing **B.Tech in Artificial Intelligence & Data Science**
-- Here's my portfolio: `[add your portfolio link here]`
-- Currently learning **Generative AI** and integrating it into my dev workflow
-- Building AI-powered applications, full-stack projects, and data analytics tools
-- **AWS Certified Cloud Practitioner**
-- Fun fact: `[drop a fun fact about yourself here]`
-- Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
+-  Pursuing **B.Tech in Artificial Intelligence & Data Science**
+-  Here's my portfolio: `[add your portfolio link here]`
+-  Currently learning **Generative AI** and integrating it into my dev workflow
+-  Building AI-powered applications, full-stack projects, and data analytics tools
+-  **AWS Certified Cloud Practitioner**
+-  Fun fact: `[drop a fun fact about yourself here]`
+-  Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
 
 **Social Presence**
 
@@ -34,7 +34,7 @@
 
 ---
 
-### Familiar With
+###  Familiar With 
 
 <div align="center">
 
@@ -44,7 +44,7 @@
 
 <br/>
 
-### Frontend & Backend
+###  Frontend & Backend
 
 <div align="center">
 
@@ -54,7 +54,7 @@
 
 <br/>
 
-### AI, ML & Data
+###  AI, ML & Data
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 <br/>
 
-### Databases & Cloud
+###  Databases & Cloud
 
 <div align="center">
 
@@ -74,7 +74,7 @@
 
 <br/>
 
-### IDE & Tools
+###  IDE & Tools
 
 <div align="center">
 
@@ -84,13 +84,13 @@
 
 ---
 
-### Featured Projects
+###  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**TexSouLs** — Intelligent Textile Automation System
+** TexSouLs** — Intelligent Textile Automation System
 
 AI-powered automation that analyzes textile patterns, identifies dominant thread colors, and generates cone placement mappings.
 
@@ -99,7 +99,7 @@ AI-powered automation that analyzes textile patterns, identifies dominant thread
 </td>
 <td width="50%" valign="top">
 
-**SkillSharper** — AI Interview Training Platform
+** SkillSharper** — AI Interview Training Platform
 
 Evaluates aptitude, technical knowledge, communication, and interview performance.
 
@@ -107,11 +107,10 @@ Evaluates aptitude, technical knowledge, communication, and interview performanc
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-**Similar Image Finder** — AI-Based Image Retrieval
+** Similar Image Finder** — AI-Based Image Retrieval
 
 Detects visually similar images using feature extraction and cosine similarity.
 
@@ -120,7 +119,7 @@ Detects visually similar images using feature extraction and cosine similarity.
 </td>
 <td width="50%" valign="top">
 
-**GradeSnap** — Temporary Marksheet Generator
+** GradeSnap** — AI-Powered Temporary Marksheet Provider
 
 Automates result extraction, CGPA calculation, and temporary marksheet generation.
 
@@ -134,43 +133,20 @@ Automates result extraction, CGPA calculation, and temporary marksheet generatio
 
 ### 🎓 Certifications
 
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/AWS%20-%20Certified%20Cloud%20Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS - Certified Cloud Practitioner"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/AWS%20-%20Exploring%20Artificial%20Intelligence-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS - Exploring Artificial Intelligence"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/HackerRank%20-%20JavaScript%20Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank - JavaScript Intermediate"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/NPTEL%20-%20Industry%204.0%20%26%20IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117" alt="NPTEL - Industry 4.0 and IIoT"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Anthropic%20-%20AI%20Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117" alt="Anthropic - AI Fluency"/>
-</p>
-
-</div>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Cloud Practitioner"/>
+<img src="https://img.shields.io/badge/AWS-Exploring_AI-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Exploring AI"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank JavaScript"/>
+<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117" alt="NPTEL"/>
+<img src="https://img.shields.io/badge/Anthropic-AI_Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117" alt="AI Fluency"/>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="Gokul's GitHub stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="Gokul's GitHub Stats"/>
 
-<br/><br/>
-
-[![Gokul's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
