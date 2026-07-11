@@ -94,6 +94,8 @@ print(developer.say_hi())
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/>
+<br/>
+`REST API`
 
 **AI & Machine Learning**
 <br/>
@@ -109,7 +111,7 @@ print(developer.say_hi())
 
 **Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
