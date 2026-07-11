@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Hareesh
+## Hi there 👋 It's me Gokul P
 
-Software Engineer @ Zoho Corporation
+AI & Data Science Student | Full-Stack Developer | Data Analytics | AWS Certified Cloud Practitioner
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
 - 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
