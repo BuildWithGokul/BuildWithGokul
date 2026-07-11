@@ -1,32 +1,27 @@
 <div align="center">
 
-# GOKUL P
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B2A,100:00C896&height=260&section=header&text=GOKUL%20P&fontSize=70&fontColor=C9D1D9&animation=fadeIn&fontAlignY=32&desc=AI%20%26%20Data%20Science%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20Enthusiast&descAlignY=52&descSize=18"/>
 
-### AI & Data Science · Full-Stack Developer · Cloud Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=850&height=55&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=850&height=55&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Data+Analytics+Enthusiast+%F0%9F%93%8A;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"/>
 
 <br/>
 
 <a href="https://www.linkedin.com/in/gokul215">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=C9D1D9" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:gokulperiyannan2005@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say_Hi-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=C9D1D9" alt="Gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Say_Hi-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
 </a>
-
 <a href="https://github.com/BuildWithGokul">
-<img src="https://img.shields.io/badge/Follow-BuildWithGokul-C9D1D9?style=for-the-badge&logo=github&logoColor=181717&labelColor=C9D1D9" alt="Follow BuildWithGokul"/>
+<img src="https://img.shields.io/github/followers/BuildWithGokul?label=Followers&style=for-the-badge&logo=github&logoColor=FFFFFF&color=C9D1D9&labelColor=0D1117" alt="GitHub Followers"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=C9D1D9&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=C9D1D9&labelColor=0D1117&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
----
+<br/>
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
 ## 🧑‍💻 whoami
 
@@ -195,8 +190,7 @@ AI healthcare assistant concept integrating medical image classification and int
 # 📊 GitHub Intelligence
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="GitHub Stats"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithGokul&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BuildWithGokul&hide_border=true&background=0D1117&ring=00C896&fire=00C896&currStreakLabel=00C896&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub Streak"/>
 
 <br/>
 
@@ -210,7 +204,7 @@ AI healthcare assistant concept integrating medical image classification and int
 
 # 📈 Contribution Activity
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=00C896&hide_border=true" alt="Contribution Activity"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true" alt="Contribution Activity"/>
 
 </div>
 
@@ -220,15 +214,11 @@ AI healthcare assistant concept integrating medical image classification and int
 
 # 🎓 Certifications & Continuous Learning
 
-<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/AWS-Exploring_AI-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117"/>
-
-<img src="https://img.shields.io/badge/Anthropic-AI_Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Cloud Practitioner"/>
+<img src="https://img.shields.io/badge/AWS-Exploring_AI-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Exploring AI"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank JavaScript"/>
+<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117" alt="NPTEL Industry 4.0 and IIoT"/>
+<img src="https://img.shields.io/badge/Anthropic-AI_Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117" alt="AI Fluency"/>
 
 </div>
 
@@ -241,21 +231,19 @@ AI healthcare assistant concept integrating medical image classification and int
 <a href="https://www.linkedin.com/in/gokul215">
 <img src="https://img.shields.io/badge/LinkedIn-Gokul_P-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
 </a>
-
 <a href="mailto:gokulperiyannan2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contact_Me-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
 </a>
-
 <a href="https://github.com/BuildWithGokul">
 <img src="https://img.shields.io/badge/GitHub-BuildWithGokul-C9D1D9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Turning+Ideas+Into+Intelligent+Systems.;Thanks+for+visiting+my+profile+%F0%9F%9A%80" alt="Footer Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=700&lines=Code.+Learn.+Build.+Repeat.;Turning+Ideas+Into+Intelligent+Systems.;Thanks+for+visiting+my+profile+%F0%9F%9A%80" alt="Footer Typing Animation"/>
 
 ### 💡 `Building intelligent solutions for real-world problems.`
 
-<sub>© Gokul P · BuildWithGokul</sub>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:162B2A,100:0D1117&height=140&section=footer"/>
 
 </div>
