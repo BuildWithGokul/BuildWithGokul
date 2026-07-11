@@ -94,8 +94,8 @@ print(developer.say_hi())
 **Backend**
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/>
-<br/>
-`REST API`
+<br/><br/>
+<img src="https://img.shields.io/badge/REST_API-00C896?style=for-the-badge&logo=fastapi&logoColor=white"/>
 
 **AI & Machine Learning**
 <br/>
