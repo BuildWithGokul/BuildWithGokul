@@ -150,6 +150,7 @@ An intelligent interview preparation ecosystem designed to evaluate aptitude, te
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -202,16 +203,6 @@ AI healthcare assistant concept integrating medical image classification and int
 # 📈 Contribution Activity
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=FFFFFF&line=00C896&point=FFFFFF&area=true&area_color=00695C&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🏆 GitHub Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=BuildWithGokul&theme=matrix&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1"/>
 
 </div>
 
