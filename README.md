@@ -104,11 +104,7 @@ print(developer.say_hi())
 
 <br/><br/>
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/openapiinitiative/6BA539" title="REST API"/>
-
-<br/>
-
-<sub>REST API</sub>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=restapi&theme=dark"/>
 
 <br/><br/>
 
@@ -136,13 +132,7 @@ print(developer.say_hi())
 
 <br/><br/>
 
-<img height="48" width="48" src="https://cdn.simpleicons.org/powerbi/F2C811" title="Power BI"/>
-&nbsp;&nbsp;&nbsp;
-<img height="48" width="48" src="https://cdn.simpleicons.org/tableau/E97627" title="Tableau"/>
-
-<br/>
-
-<sub>Power BI        Tableau</sub>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau&theme=dark"/>
 
 </div>
 
@@ -155,6 +145,7 @@ print(developer.say_hi())
 </div>
 
 <table>
+
 <tr>
 
 <td width="50%" valign="top">
@@ -218,6 +209,7 @@ AI healthcare assistant concept integrating medical image classification and int
 </td>
 
 </tr>
+
 </table>
 
 ---
