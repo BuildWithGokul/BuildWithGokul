@@ -95,7 +95,7 @@ print(developer.say_hi())
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/REST_API-00C896?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-00C896?style=for-the-badge&logo=openapiinitiative&logoColor=white"/>
 
 **AI & Machine Learning**
 <br/>
@@ -113,8 +113,8 @@ print(developer.say_hi())
 <br/>
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Power_BI-F1C912?style=for-the-badge&logo=power-bi&logoColor=black"/>
+<img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?style=for-the-badge&logo=tableau&logoColor=fff"/>
 
 </div>
 
