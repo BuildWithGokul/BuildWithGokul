@@ -36,31 +36,51 @@
 
 ### 💻 I Code In
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Languages"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🎨 Frontend & Backend
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,express,flask,fastapi&theme=dark" alt="Frontend and Backend"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🤖 AI, ML & Data
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and Machine Learning"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🗄️ Databases & Cloud
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,aws,vercel,netlify&theme=dark" alt="Databases and Cloud"/>
 
-<br/><br/>
+</div>
+
+<br/>
 
 ### 🛠️ IDE & Tools
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+
+</div>
 
 ---
 
@@ -71,14 +91,18 @@
 <td width="50%" valign="top">
 
 **🧵 TexSouLs** — Intelligent Textile Automation System
+
 AI-powered automation that analyzes textile patterns, identifies dominant thread colors, and generates cone placement mappings.
+
 `Python` `React` `OpenCV` `Flask`
 
 </td>
 <td width="50%" valign="top">
 
 **🎯 SkillSharper** — AI Interview Training Platform
+
 Evaluates aptitude, technical knowledge, communication, and interview performance.
+
 `React` `Node.js` `MongoDB` `FastAPI`
 
 </td>
@@ -87,14 +111,18 @@ Evaluates aptitude, technical knowledge, communication, and interview performanc
 <td width="50%" valign="top">
 
 **🔍 Similar Image Finder** — AI-Based Image Retrieval
+
 Detects visually similar images using feature extraction and cosine similarity.
+
 `Python` `TensorFlow` `DeepFace` `Flask`
 
 </td>
 <td width="50%" valign="top">
 
 **🏥 MedCare AI** — AI-Powered Healthcare Concept
+
 Medical image classification with intelligent healthcare recommendations.
+
 `Python` `TensorFlow` `OpenCV` `Flask`
 
 </td>
