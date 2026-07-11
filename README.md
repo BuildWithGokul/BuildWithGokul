@@ -1,30 +1,132 @@
-## Hi there 👋 It's me Hareesh
+<div align="center">
 
-Software Engineer @ Zoho Corporation
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
-- 🌱 I’m currently learning and Teaching DSA and Integrating AI to my workflow
-- Engineeing at [<img src="https://www.highbrowtechnology.com/_next/image?url=https%3A%2F%2Fhighbrow-resources.s3.amazonaws.com%2FHighbrow%2BWebsite%2BContent%2FHighbrow_Light.png&w=256&q=75" height="24">](https://www.highbrowtechnology.com/),
-- Previously worked with [<img src="https://upload.wikimedia.org/wikipedia/commons/a/ac/ZOHO_New.png" height="24">](https://www.zoho.com/) [<img height="24" width="24" src="https://static.zohocdn.com/catalyst-cdn/img/welcomeloader-b6a4057dc7.gif">](https://catalyst.zoho.com/)
-- ⚡ Fun fact: I know Japanese.
-- Social Presence
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/hareesh_._r/)
-- ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCVXHYmFar7yArWvkcjxWXuQ)
-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCVXHYmFar7yArWvkcjxWXuQ)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B2A,100:00C896&height=200&section=header&text=Hi%20there%2C%20I'm%20Gokul%20P%20%F0%9F%91%8B&fontSize=42&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38"/>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/fluent/48/000000/arduino.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"/>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> <img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> <img height="50" src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white"/>
+</div>
 
+<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
+- 🎓 Pursuing **B.Tech in Artificial Intelligence & Data Science**
+- 🔭 Here's my portfolio: `[add your portfolio link here]`
+- 🌱 Currently learning **Generative AI** and integrating it into my dev workflow
+- 💻 Building AI-powered applications, full-stack projects, and data analytics tools
+- ☁️ **AWS Certified Cloud Practitioner**
+- ⚡ Fun fact: `[drop a fun fact about yourself here]`
+- 📫 Reach me at **[gokulperiyannan2005@gmail.com](mailto:gokulperiyannan2005@gmail.com)**
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+**Social Presence**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
+<br/>
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<a href="https://www.linkedin.com/in/gokul215">
+  <img src="https://img.shields.io/badge/LinkedIn-C9D1D9?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0D1117" alt="LinkedIn"/>
+</a>
+<a href="mailto:gokulperiyannan2005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-C9D1D9?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0D1117" alt="Gmail"/>
+</a>
+<a href="https://github.com/BuildWithGokul">
+  <img src="https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117" alt="GitHub"/>
+</a>
+
+<br clear="both"/>
+
+---
+
+### 💻 I Code In
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js&theme=dark" alt="Languages"/>
+
+<br/><br/>
+
+### 🎨 Frontend & Backend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite,nodejs,express,flask,fastapi&theme=dark" alt="Frontend and Backend"/>
+
+<br/><br/>
+
+### 🤖 AI, ML & Data
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv&theme=dark" alt="AI and Machine Learning"/>
+
+<br/><br/>
+
+### 🗄️ Databases & Cloud
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,aws,vercel,netlify&theme=dark" alt="Databases and Cloud"/>
+
+<br/><br/>
+
+### 🛠️ IDE & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧵 TexSouLs** — Intelligent Textile Automation System
+AI-powered automation that analyzes textile patterns, identifies dominant thread colors, and generates cone placement mappings.
+`Python` `React` `OpenCV` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+**🎯 SkillSharper** — AI Interview Training Platform
+Evaluates aptitude, technical knowledge, communication, and interview performance.
+`React` `Node.js` `MongoDB` `FastAPI`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🔍 Similar Image Finder** — AI-Based Image Retrieval
+Detects visually similar images using feature extraction and cosine similarity.
+`Python` `TensorFlow` `DeepFace` `Flask`
+
+</td>
+<td width="50%" valign="top">
+
+**🏥 MedCare AI** — AI-Powered Healthcare Concept
+Medical image classification with intelligent healthcare recommendations.
+`Python` `TensorFlow` `OpenCV` `Flask`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🎓 Certifications
+
+<img src="https://img.shields.io/badge/AWS-Cloud_Practitioner-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Cloud Practitioner"/>
+<img src="https://img.shields.io/badge/AWS-Exploring_AI-C9D1D9?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900&labelColor=0D1117" alt="AWS Exploring AI"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript_Intermediate-C9D1D9?style=for-the-badge&logo=hackerrank&logoColor=00EA64&labelColor=0D1117" alt="HackerRank JavaScript"/>
+<img src="https://img.shields.io/badge/NPTEL-Industry_4.0_%26_IIoT-C9D1D9?style=for-the-badge&labelColor=0D1117" alt="NPTEL"/>
+<img src="https://img.shields.io/badge/Anthropic-AI_Fluency-C9D1D9?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117" alt="AI Fluency"/>
+
+---
+
+### 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="Gokul's GitHub stats"/>
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/your-leetcode-username?ext=contest&theme=dark)](https://leetcode.com/your-leetcode-username)
+
+[![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile+%F0%9F%9A%80" alt="Footer Typing Animation"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C896,50:162B2A,100:0D1117&height=120&section=footer"/>
+
+</div>
