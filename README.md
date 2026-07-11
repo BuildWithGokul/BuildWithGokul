@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:162B2A,100:00C896&height=200&section=header&text=Hi%20there%2C%20I'm%20Gokul%20P%20%F0%9F%91%8B&fontSize=42&fontColor=C9D1D9&animation=fadeIn&fontAlignY=38"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00C896&center=true&vCenter=true&repeat=true&width=800&height=50&lines=AI+%26+Data+Science+Student+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%92%BB;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing Animation"
 
 </div>
 
@@ -34,7 +34,7 @@
 
 ---
 
-<br> ###  Familiar With <br/>
+###  Familiar With <br/>
 
 <div align="center">
 
