@@ -142,9 +142,6 @@ Automates result extraction, CGPA calculation, and temporary marksheet generatio
 
 ---
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=BuildWithGokul&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=00C896&text_color=C9D1D9" alt="Gokul's GitHub stats"/>
 
 
 [![Gokul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BuildWithGokul&bg_color=0D1117&color=C9D1D9&line=00C896&point=C9D1D9&area=true&area_color=162B2A&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
