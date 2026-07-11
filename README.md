@@ -15,7 +15,7 @@
 <a href="https://github.com/BuildWithGokul">
   <img src="https://img.shields.io/github/followers/BuildWithGokul?label=Followers&style=for-the-badge&logo=github&logoColor=FFFFFF&color=C9D1D9&labelColor=0D1117" alt="GitHub Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=0D1117&labelColor=0D1117&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=BuildWithGokul&label=PROFILE%20VIEWS&color=C9D1D9&labelColor=0D1117&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
