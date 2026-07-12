@@ -10,7 +10,7 @@
 <img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Animation"/>
 
 -  Pursuing **B.Tech in Artificial Intelligence & Data Science**
--  Here's my portfolio: `[My Portfolio on Progress Stay Tuned]`
+-  Here's my portfolio: `[Portfolio Under Progress Stay Tuned]`
 -  Currently learning **Generative AI** and integrating it into my dev workflow
 -  Building AI-powered applications, full-stack projects, and data analytics tools
 -  **AWS Certified Cloud Practitioner**
